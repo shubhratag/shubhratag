@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate with **with fellow data enthusiasts and collaborate on projects that harness data to drive informed business decisions and foster innovation.**
 
-- 👨‍💻 All of my projects are available at [shubhratag.github.io/ShubhrataGupta/](shubhratag.github.io/ShubhrataGupta/)
+- 👨‍💻 All of my projects are available at [https://shubhratag.github.io/ShubhrataGupta/](https://shubhratag.github.io/ShubhrataGupta/)
 
 - 💬 Ask me about **Data Analysis, Data Visualization, Business Analysis, Cloud Tech and Python**
 
