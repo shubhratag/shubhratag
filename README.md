@@ -1,9 +1,10 @@
 
-![MasterHead](https://stock.adobe.com/search?k=data+analytics+background&asset_id=711266053)](https://rishavchanda.io
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/07/11/26/60/1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)](https://shubhratagupta.io)
 <h1 align="center">Hi 👋, I'm Shubhrata Gupta</h1>
 <h3 align="center">Tech-Savvy Business Data Enthusiast | SQL, Python, Cloud | MS in IT Management | Transforming Data into Smart, Strategic Insights</h3>
-img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*DsIpnvUFCtKFEXCWLx3g5Q.gif"
-
+<p align="right">
+  <img width="400" alt="Coding" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhratag&label=Profile%20views&color=0e75b6&style=flat" alt="shubhratag" /> </p>
 
 - 🔭 I’m currently working on **Data Analysis and Reporting Projects**
