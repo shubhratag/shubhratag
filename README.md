@@ -38,4 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhratag&show_icons=true&locale=en" alt="shubhratag" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhratag&" alt="shubhratag" /></p>
-[![Leetcode Stats](https://leetcard.shubhratag.cool/shubhratag)](https://leetcode.com/shubhratag)
+
+[![Leetcode Stats](https://leetcard.shubhratag.cool/shubhratagupta)](https://github.com/shubhratag)
