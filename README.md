@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhratag&" alt="shubhratag" /></p>
 
-[![Leetcode Stats](https://leetcard.shubhratag.cool/shubhratagupta)](https://github.com/shubhratag)
+[![Leetcode Stats](https://github.com/shubhratag)](https://github.com/shubhratag)
