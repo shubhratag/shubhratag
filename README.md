@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **how to enhance my expertise in Cloud Technologies (AWS, GCP), and Advanced Data Analysis using SQL, Python, Tableau and Big Data tools. I’m diving deeper into machine learning and data engineering to broaden my skillset and bring more value to my projects.**
 
-- 👯 I’m looking to collaborate with **with fellow data enthusiasts and collaborate on projects that harness data to drive informed business decisions and foster innovation.**
+- 👯 I’m looking to collaborate with ** fellow data enthusiasts and collaborate on projects that harness data to drive informed business decisions and foster innovation.**
 
 - 👨‍💻 All of my projects are available at [https://shubhratag.github.io/ShubhrataGupta/](https://shubhratag.github.io/ShubhrataGupta/)
 
