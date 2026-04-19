@@ -164,14 +164,6 @@ Analyzed 3 years of SaaS subscription data using cohort analysis and SQL window 
 
 ---
 
-## Currently Learning & Building
-
-- Databricks Data Engineer Associate certification
-- AWS ML Specialty certification
-- dbt Core for advanced transformation patterns
-
----
-
 ## GitHub Stats
 
 <p align="center">
