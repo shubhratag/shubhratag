@@ -183,4 +183,3 @@ Actively targeting **Analytics Engineer · Senior Data Engineer · BI Engineer �
 
 Exploring transition into **ML/AI Engineering** — currently building portfolio projects in machine learning and AI-powered data pipelines
 
-H-1B transfer sponsorship required · Open to relocation
