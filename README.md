@@ -43,7 +43,7 @@ Data Analytics Engineer with **5 years of experience** across aviation, insuranc
   architectures
 - Integrating ITSM platforms with modern data stacks using **REST APIs 
   and OAuth2**
-- **M.S. Information Technology & Management — UT Dallas (GPA 3.92)**
+- **M.S. Information Technology & Management (Specialization in Business Intelligence, Data Analytics and Engineering)— UT Dallas (GPA 3.92)**
 
 ---
 
