@@ -112,6 +112,8 @@ Data Analytics Engineer with **5 years of experience** across aviation, insuranc
 ![AWS Glue](https://img.shields.io/badge/AWS_Glue-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 **ITSM & Integrations**
 
