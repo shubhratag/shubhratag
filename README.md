@@ -7,7 +7,7 @@
 <h3 align="center">Data Analytics Engineer III · Seattle, WA</h3>
 
 <p align="center">
-  <em>Building production-grade ITSM data platforms, real-time streaming pipelines,<br/>
+  <em>Building production-grade data platforms, real-time streaming pipelines,<br/>
   and self-serve BI dashboards that drive operational decisions at scale.</em>
 </p>
 
