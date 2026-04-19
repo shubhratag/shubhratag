@@ -169,7 +169,6 @@ Analyzed 3 years of SaaS subscription data using cohort analysis and SQL window 
 - Databricks Data Engineer Associate certification
 - AWS ML Specialty certification
 - dbt Core for advanced transformation patterns
-- Practicing SQL and PySpark for big tech data engineering interviews
 
 ---
 
