@@ -37,7 +37,7 @@ Data Analytics Engineer with **5 years of experience** across aviation, insuranc
 
 - Building end-to-end data pipelines using **PySpark, and Delta Lake** 
   on Databricks medallion architecture
-- Designing **Power BI dashboards** with DAX, D3.js custom visuals, 
+- Designing **Power BI and Tableau dashboards** with DAX, D3.js custom visuals, 
   and executive-level KPI reporting
 - Migrating legacy ETL workflows to scalable **cloud-native lakehouse** 
   architectures
