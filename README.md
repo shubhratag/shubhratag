@@ -33,14 +33,18 @@
 
 ## About Me
 
-Data Analytics Engineer with **5 years of experience** across aviation, insurance, and manufacturing. Currently contracting at **Alaska Airlines ITS Analytics** via Reliant Group, where I own the end-to-end ITSM data platform on Databricks — from ServiceNow ingestion to executive Power BI dashboards.
+Data Analytics Engineer with **5 years of experience** across aviation, 
+insurance, and manufacturing industries.
 
-- Leading the **Alaska-Hawaiian merger ITSM data consolidation** — migrating Cherwell and Hawaiian Airlines ServiceNow historical data into a unified Databricks lakehouse as the single source of truth
-- Building **ServiceNow → Databricks pipelines** using Lakeflow Connect with Bronze/Silver/Gold medallion architecture and Unity Catalog
-- Creating **executive Power BI dashboards** tracking IT change metrics, incident KPIs, and 90/365-day uptime for critical ground stop systems using D3.js custom visuals and DAX
-- Migrated legacy **Alteryx ETL workflows to PySpark** on Databricks Runtime 14.3 LTS — significant cost savings as Alteryx licensing scaled
+- Building end-to-end data pipelines using **PySpark, Kafka, and Delta Lake** 
+  on Databricks medallion architecture
+- Designing **Power BI dashboards** with DAX, D3.js custom visuals, 
+  and executive-level KPI reporting
+- Migrating legacy ETL workflows to scalable **cloud-native lakehouse** 
+  architectures
+- Integrating ITSM platforms with modern data stacks using **REST APIs 
+  and OAuth2**
 - **M.S. Information Technology & Management — UT Dallas (GPA 3.92)**
-- Open to **Analytics Engineer, Senior Data Engineer, BI Engineer, and Power BI Developer** roles · H-1B transfer sponsorship required
 
 ---
 
