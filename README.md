@@ -164,6 +164,8 @@ Analyzed 3 years of SaaS subscription data using cohort analysis and SQL window 
 
 ---
 
+---
+
 ## GitHub Stats
 
 <p align="center">
@@ -177,10 +179,8 @@ Analyzed 3 years of SaaS subscription data using cohort analysis and SQL window 
   <img src="https://komarev.com/ghpvc/?username=shubhratag&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<p align="center">
-  <em>- Actively targeting **Analytics Engineer, Senior Data Engineer, 
-  BI Engineer, and Power BI Developer** roles
-- Exploring transition into **ML/AI Engineering** — currently building 
-  portfolio projects in machine learning and AI-powered data pipelines<br/>
-  H-1B transfer sponsorship required · Open to relocation</em>
-</p>
+Actively targeting **Analytics Engineer · Senior Data Engineer · BI Engineer · Power BI Developer** roles
+
+Exploring transition into **ML/AI Engineering** — currently building portfolio projects in machine learning and AI-powered data pipelines
+
+H-1B transfer sponsorship required · Open to relocation
