@@ -1,34 +1,158 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/07/11/26/60/1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)](https://shubhratagupta.io)
-<h1 align="center">Hi 👋, I'm Shubhrata Gupta</h1>
-<h3 align="center">Tech-Savvy Business Data Enthusiast | SQL, Power BI, Tableau, Python, Databricks, Cloud | MS in IT Management | Transforming Data into Smart, Strategic Insights</h3>
+<div align="center">
+  <img src="https://as1.ftcdn.net/v2/jpg/07/11/26/60/1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg" width="100%" height="180px" style="object-fit:cover"/>
+</div>
+
+<h1 align="center">Hi, I'm Shubhrata Gupta 👋</h1>
+
+<h3 align="center">Data Analytics Engineer III · Seattle, WA</h3>
+
 <p align="center">
-  <img width="400" alt="Coding" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhratag&label=Profile%20views&color=0e75b6&style=flat" alt="shubhratag" /> </p>
-
-- 🔭 I’m currently working on **Data Analysis and Reporting Projects**
-
-- 🌱 I’m currently learning **how to enhance my expertise in Cloud Technologies (AWS, GCP), and Advanced Data Analysis using SQL, Python, Tableau and Big Data tools. I’m diving deeper into machine learning and data engineering to broaden my skillset and bring more value to my projects.**
-
-- 👯 I’m looking to collaborate with **fellow data enthusiasts and collaborate on projects that harness data to drive informed business decisions and foster innovation.**
-
-- 👨‍💻 All of my projects are available at [https://shubhratag.github.io/ShubhrataGupta/](https://shubhratag.github.io/ShubhrataGupta/)
-
-- 💬 Ask me about **Data Analysis, Data Visualization, Business Analysis, Cloud Tech and Python**
-
-- 📫 How to reach me **shubhratagupta32@gmail.com**
-
-- ⚡ Fun fact **I have a superpower—I can do mental math faster than a calculator! Whether it's crunching numbers for data analysis or swiftly calculating bills and expenses, I've got it covered. Let's collaborate on projects that harness this math prowess alongside data to drive innovation and make informed business decisions!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubhrata-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhrata-gupta" height="30" width="40" /></a>
-<a href="https://kaggle.com/shubhratagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhratagupta" height="30" width="40" /></a>
-<a href="https://medium.com/@shubhratagupta32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhratagupta32" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sxg220142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sxg220142" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubhratagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhratagupta" height="30" width="40" /></a>
+  <em>Building production-grade ITSM data platforms, real-time streaming pipelines,<br/>
+  and self-serve BI dashboards that drive operational decisions at scale.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/shubhrata-gupta">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shubhratagupta32@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://shubhratag.github.io/ShubhrataGupta/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.leetcode.com/shubhratagupta">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://kaggle.com/shubhratagupta">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
 
+---
+
+## About Me
+
+Data Analytics Engineer with **5 years of experience** across aviation, insurance, and manufacturing. Currently contracting at **Alaska Airlines ITS Analytics** via Reliant Group, where I own the end-to-end ITSM data platform on Databricks — from ServiceNow ingestion to executive Power BI dashboards.
+
+- Leading the **Alaska-Hawaiian merger ITSM data consolidation** — migrating Cherwell and Hawaiian Airlines ServiceNow historical data into a unified Databricks lakehouse as the single source of truth
+- Building **ServiceNow → Databricks pipelines** using Lakeflow Connect with Bronze/Silver/Gold medallion architecture and Unity Catalog
+- Creating **executive Power BI dashboards** tracking IT change metrics, incident KPIs, and 90/365-day uptime for critical ground stop systems using D3.js custom visuals and DAX
+- Migrated legacy **Alteryx ETL workflows to PySpark** on Databricks Runtime 14.3 LTS — significant cost savings as Alteryx licensing scaled
+- **M.S. Information Technology & Management — UT Dallas (GPA 3.92)**
+- Open to **Analytics Engineer, Senior Data Engineer, BI Engineer, and Power BI Developer** roles · H-1B transfer sponsorship required
+
+---
+
+## Tech Stack
+
+**Data Engineering & Pipelines**
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white)
+
+**Databases & Warehouses**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+
+**BI & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+**ITSM & Integrations**
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+
+---
+
+## Featured Projects
+
+### Fintech Payments Data Pipeline
+Real-time end-to-end payments pipeline simulating a production fintech platform. Ingests payment transaction events via Kafka, processes with PySpark Structured Streaming, stores across Bronze/Silver/Gold Delta Lake layers on Databricks, orchestrated by Airflow DAGs with retry logic and SLA monitoring. Surfaces transaction volume, fraud signals, and SLA KPIs in Power BI.
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
+[View Project →](https://github.com/shubhratag/fintech-payments-pipeline)
+
+---
+
+### E-Commerce Analytics Platform
+Dimensional data model (star schema) in Snowflake covering orders, customers, products, and returns. Built dbt transformation layers with data quality tests and documentation. Tableau dashboards tracking revenue by channel, customer lifetime value, and return rate trends as a self-serve analytics layer.
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### SaaS Customer Churn Analysis
+Analyzed 3 years of SaaS subscription data using cohort analysis and SQL window functions to identify churn drivers across customer segments, usage patterns, and pricing tiers. Built a logistic regression churn prediction model in Python achieving **82% accuracy**. Visualized risk segments in Power BI to surface high-risk accounts for proactive retention.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
+---
+
+## Currently Learning & Building
+
+- Databricks Data Engineer Associate certification
+- AWS ML Specialty certification
+- dbt Core for advanced transformation patterns
+- Practicing SQL and PySpark for big tech data engineering interviews
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhratag&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhratag&layout=compact&theme=default&hide_border=true" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhratag&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+  <em>Targeting Analytics Engineer · Senior Data Engineer · BI Engineer · Power BI Developer roles<br/>
+  H-1B transfer sponsorship required · Open to remote and Seattle/Bellevue hybrid</em>
+</p>
