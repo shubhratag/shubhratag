@@ -156,6 +156,9 @@ Analyzed 3 years of SaaS subscription data using cohort analysis and SQL window 
 </p>
 
 <p align="center">
-  <em>Targeting Analytics Engineer · Senior Data Engineer · BI Engineer · Power BI Developer roles<br/>
-  H-1B transfer sponsorship required · Open to remote and Seattle/Bellevue hybrid</em>
+  <em>- Actively targeting **Analytics Engineer, Senior Data Engineer, 
+  BI Engineer, and Power BI Developer** roles
+- Exploring transition into **ML/AI Engineering** — currently building 
+  portfolio projects in machine learning and AI-powered data pipelines<br/>
+  H-1B transfer sponsorship required · Open to relocation</em>
 </p>
