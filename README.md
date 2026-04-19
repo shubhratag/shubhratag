@@ -84,6 +84,12 @@ Data Analytics Engineer with **5 years of experience** across aviation, insuranc
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Amazon QuickSight](https://img.shields.io/badge/QuickSight-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow_Dashboards-62D84E?style=flat-square&logo=servicenow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks_Dashboards-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=esri&logoColor=white)
 
 **Cloud & DevOps**
 
