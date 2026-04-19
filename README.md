@@ -33,8 +33,7 @@
 
 ## About Me
 
-Data Analytics Engineer with **5 years of experience** across aviation, 
-insurance, and manufacturing industries.
+Data Analytics Engineer with **5 years of experience** across aviation, insurance, enterprise AI & automation platform, pharma and manufacturing industries.
 
 - Building end-to-end data pipelines using **PySpark, Kafka, and Delta Lake** 
   on Databricks medallion architecture
